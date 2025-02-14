@@ -1,0 +1,15 @@
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/bin/Debug/net7.0/NewConsoleApp1
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/bin/Debug/net7.0/NewConsoleApp1.deps.json
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/bin/Debug/net7.0/NewConsoleApp1.runtimeconfig.json
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/bin/Debug/net7.0/NewConsoleApp1.dll
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/bin/Debug/net7.0/NewConsoleApp1.pdb
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.AssemblyInfo.cs
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.dll
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/refint/NewConsoleApp1.dll
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.pdb
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/NewConsoleApp1.genruntimeconfig.cache
+/Users/Ivan/Downloads/NewConsoleApp1/NewConsoleApp1/obj/Debug/net7.0/ref/NewConsoleApp1.dll

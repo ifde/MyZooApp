@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNiLLToQdV0=",
+  "success": true,
+  "projectFilePath": "/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/ZooApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Ivan/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/Ivan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

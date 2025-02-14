@@ -1,0 +1,36 @@
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/ZooApp
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/ZooApp.deps.json
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/ZooApp.runtimeconfig.json
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/ZooApp.pdb
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.AssemblyInfo.cs
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.csproj.CopyComplete
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/refint/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.pdb
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ZooApp.genruntimeconfig.cache
+/Users/Ivan/Downloads/NewConsoleApp1/ZooApp/obj/Debug/net7.0/ref/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/ZooApp
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/ZooApp.deps.json
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/ZooApp.runtimeconfig.json
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/ZooApp.pdb
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.csproj.AssemblyReference.cache
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.AssemblyInfoInputs.cache
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.AssemblyInfo.cs
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.csproj.CoreCompileInputs.cache
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.csproj.CopyComplete
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/refint/ZooApp.dll
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.pdb
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ZooApp.genruntimeconfig.cache
+/Users/Ivan/Downloads/NewConsoleApp1 2/ZooApp/obj/Debug/net7.0/ref/ZooApp.dll
